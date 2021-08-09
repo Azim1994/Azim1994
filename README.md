@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Azim Usmanov
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning React.js
+- 💞️ I really want to work as a full-stack developer
+- 📫 How to reach me (azim.usmanov1994@gmail.com) or +998909632357 (whatsapp)
